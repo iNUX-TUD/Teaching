@@ -6,12 +6,12 @@
           {
               "answer": "Linear",
               "correct": true,
-              "feedback": "Right! According to Darcy's Law $q$ is proportional to $\Delta h$."
+              "feedback": "Right! According to Darcy's Law q is proportional to h2-h1."
           },
           {
               "answer": "Quadratic",
               "correct": false,
-              "feedback": "Wrong. Try to repeat the experiment for different values of the hydraulic heads. Write down the values and the resulting q. Can you see a pattern?"
+              "feedback": "Wrong. Try to repeat the experiment for different values of hydraulic heads. Write down the values and the resulting flow rate. Can you see a pattern?"
           }
         ]
     },
@@ -27,7 +27,7 @@
           {
               "answer": "Because it changes the hydraulic conductivity",
               "correct": true,
-              "feedback": "Right! Diffferent porous compositons have different conductivities."
+              "feedback": "Right! Diffferent compositons have different conductivities."
           }
         ]
     }
