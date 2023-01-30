@@ -6,7 +6,7 @@
           {
               "answer": "Linear",
               "correct": true,
-              "feedback": r"Right! According to Darcy's Law $q$ is proportional to $\Delta h$."
+              "feedback": "Right! According to Darcy's Law $q$ is proportional to $\Delta h$."
           },
           {
               "answer": "Quadratic",
