@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What relationship exists between the difference between hydraulic heads and the resulting flow rate?",
+        "type": "many_choice",
+        "answers": [
+          {
+              "answer": "Linear",
+              "correct": true,
+              "feedback": r"Right! According to Darcy's Law $q$ is proportional to $\Delta h$."
+          },
+          {
+              "answer": "Quadratic",
+              "correct": false,
+              "feedback": "Wrong. Try to repeat the experiment for different values of the hydraulic heads. Write down the values and the resulting q. Can you see a pattern?"
+          }
+        ]
+    },
+    {
+        "question": "Why does the flux change if you change the compositon of the porous material?",
+        "type": "multiple_choice",
+        "answers": [
+          {
+              "answer": "Because it changes the hydraulic gradient",
+              "correct": false,
+              "feedback": "Wrong. The values of hydraulic heads remain the same, don't they?"
+          },
+          {
+              "answer": "Because it changes the hydraulic conductivity",
+              "correct": true,
+              "feedback": "Right! Diffferent porous compositons have different conductivities."
+          }
+        ]
+    }
+]
