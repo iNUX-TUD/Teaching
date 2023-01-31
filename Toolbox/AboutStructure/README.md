@@ -1,4 +1,4 @@
-> For the sake of consistency and better learning experience Layout Requirements are to be followed strictly. If it happens that you want to extend or change the Layout, please contact [Thomas Reimann](Thomas.Reimann@tu-dresden.de).
+> For the sake of consistency and better learning experience the Structual Design is to be followed strictly. If it happens that you want to extend or change the design, please contact [Thomas Reimann](Thomas.Reimann@tu-dresden.de).
 
 # Structual Design
 Each `Lecture Unit` had its own directory which is stored inside the [Lecture directory](../../Lectures). A `Lecture Unit` is structured in didactically chunks each of them comprising one notebook, the `Lecture Notebook`. In addition, there exists a `Index Notebook` functioning as general overview. In the following both are further explained.
