@@ -1,2 +1,2 @@
 # DICTS
-Here all language dictionaries are being saved.
+In this directory all language dictionaries are stored.

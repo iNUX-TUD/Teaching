@@ -1,10 +1,6 @@
 # Teaching
-Official repository of the iNUX Project. 
+Official repository of iNUX Project.
 
-Teaching material can be found in [Lectures](Lectures).
+The teaching material can be found in [Lectures](Lectures).
 
-For creating new teaching material, please follow the guidlines and use the tools in [Toolbox](Toolbox).
-
-> Open this project on myBinder:
->
-> https://mybinder.org/v2/gh/iNUX-TUD/Teaching.git/HEAD
+For creating new teaching material, please follow the guidlines in [Toolbox](Toolbox).

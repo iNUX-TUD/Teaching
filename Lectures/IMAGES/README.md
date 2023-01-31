@@ -1,2 +1,2 @@
 # IMAGES
-Here all images used in lectures are being saved.
+In this directory all images used in lectures are stored.
