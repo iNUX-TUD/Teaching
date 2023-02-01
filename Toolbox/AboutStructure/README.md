@@ -13,7 +13,7 @@ xx is the number of the notebook, starting from 1 with leading zero notation. Th
 
 ### Layout convention
 The layout contains the logo at the top, as well as links to the previous and following notebook at the top and bottom. At the very bottom the authors as well as the Creative Commons batch is shown.
-Please use the [template](lectureNotebook_template.ipynb).
+Please use the [template for Lecture Notebooks](lectureNotebook_template.ipynb).
 
 ## Index Notebook
 The `Index Notebook` is always the first notebook students will open in a `Lecture Unit`. It provides an overview about the topic, the learning outcome as well as the table of contents.
@@ -24,4 +24,4 @@ The naming is always:
 
 ### Layout convention
 The layout contains the logo at the top. At the very bottom the authors as well as the Creative Commons batch is shown. Besides, it at least has one section which summarizes the topic and one which explains the learning outcome. At also shows the  table of contents.
-Please use the [template](indexNotebook_template.ipynb).
+Please use the [template for Index Notebooks](indexNotebook_template.ipynb).
