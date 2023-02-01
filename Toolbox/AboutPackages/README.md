@@ -2,7 +2,7 @@
 
 The overview about useful and recommended packages can be found in [overview](overview.ipynb)
 
-Examples and explanations for specific packages:
+Examples for specific packages:
 - [Jupyterquiz](jupyterquiz.ipynb)
 - [nbgrader](nbgrader.ipynb)
 - [ipywidgets](ipywidgets.ipynb)
